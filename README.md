@@ -43,16 +43,13 @@ Scala installed.
 ##Installation
 1. Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/Vandanp14/scala-pattern-matching.git
 cd scala-pattern-matching
+
 Compile and run:
 
-bash
-Copy
-Edit
+
 scalac Main.scala
 scala Main
 How to Use
