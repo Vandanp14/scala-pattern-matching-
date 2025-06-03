@@ -28,19 +28,20 @@ String? jello word
 
 String? jelly word
 => No Match
-Technologies Used
+
+##Technologies Used
 Scala 2.13+
 
 Case Classes
 
 Pattern Matching
 
-Getting Started
-Prerequisites
+## Getting Started
+# Prerequisites
 Scala installed.
 
-Installation
-Clone the repository:
+##Installation
+1. Clone the repository:
 
 bash
 Copy
